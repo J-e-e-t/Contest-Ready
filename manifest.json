@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Contest Ready",
+    "version": "1.0.0",
+    "description": "This project will let you create a codeforces Contest at any time",
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "action": {
+      "default_icon": {
+        "16": "icon.png",
+        "24": "icon.png",
+        "32": "icon.png"
+      },
+      "default_title": "Contest Ready",
+      "default_popup": "popup.html"
+    },
+    "options_page": "options.html",
+    "permissions": [],
+    "background": {
+      "service_worker": "background.js"
+    }
+}
+  
