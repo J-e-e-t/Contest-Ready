@@ -19,3 +19,5 @@ total_duration.innerHTML = dur.value;
 dur.oninput = function () {
     total_duration.innerHTML = this.value;
 }
+
+

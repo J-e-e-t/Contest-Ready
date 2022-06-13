@@ -1,0 +1,22 @@
+{
+  "name": "contest-ready",
+  "version": "1.0.0",
+  "description": "This project will let you create a codeforces Contest at any time.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-e-e-t/Contest-Ready.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-e-e-t/Contest-Ready/issues"
+  },
+  "homepage": "https://github.com/J-e-e-t/Contest-Ready#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
